@@ -1,2 +1,0 @@
-# Dependencias necesarias para ejecutar Steam & Blade: Elemental Odyssey
-pygame-ce>=2.5.0
